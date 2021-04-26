@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: 0;
+    font-size: large;
+}
+
+li{
+    display: inline;
+    font-size: x-large;
+    margin: 0 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+nav{
+    text-align: right;
+    font-weight: 600;
+}
+
+img{
+    border-radius: 15%;
+    margin: 10px auto;
+    
+
+}
+
+.personal_image{
+    border-radius: 25%;   
+}
